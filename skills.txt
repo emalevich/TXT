@@ -1,0 +1,1 @@
+Skills to study: HTTP methods, JSON structure, Postman, GIT, Dev Tools. Xcode

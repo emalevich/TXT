@@ -1,6 +1,5 @@
 full name: Malevich Elenaage: 27number of pets: 0
-[A[3~[3~[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 full name: Malevich Elena
-age: 27
+age: 27 y.o.
 number of pets: 0
 salary requirement,$: 1500
